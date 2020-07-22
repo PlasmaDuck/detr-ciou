@@ -19,7 +19,7 @@
 # 5 - make sure it looks syntactically correct, then save
 
 """
-Utilities for bounding box manipulation and GIoU.
+Utilities for bounding box manipulation and CIoU, DIoU, and GIoU.
 """
 import torch
 import numpy as np
