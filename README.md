@@ -5,7 +5,7 @@
 ## Instructions for use
 All that is needed is a one line change to point it to the new loss function:
 
-1 - save this file as detr/util/box_ops.py
+1 - Save this file as detr/util/box_ops.py
 
 2 - Open detr/models/detr.py
 
