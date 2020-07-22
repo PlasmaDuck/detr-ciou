@@ -2,8 +2,8 @@
 (Unofficial) Complete IOU loss and Distance IOU loss for DETR transformer object detection
 
 
-# Instructions for use
-## all that is needed is a one line change to point it to the new loss function:
+## Instructions for use
+all that is needed is a one line change to point it to the new loss function:
 
 1 - Open detr/models/detr.py
 
